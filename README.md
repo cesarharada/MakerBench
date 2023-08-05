@@ -1,12 +1,13 @@
 # MakerBench
 A modular low-cost workbench
-
+![General view](https://live.staticflickr.com/65535/53095180878_35ceaecfef_b.jpg)
 
 For one table
 Material: Plywood, 18mm
 Total Sheets: 6 boards 2400 x 1200mm
 
-Cuts
+![Detail cuts](https://live.staticflickr.com/65535/53095089780_b545734fc6_b.jpg)
+# Cuts
 1. A, 1pc: 1900 x 1200 mm (pink)
 2. B, 3pcs: 1200 x 600 mm (green)
 3. C, 3pcs: 784 x 500 mm (purple)
