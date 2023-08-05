@@ -1,5 +1,5 @@
-# MakerBench
-A modular low-cost workbench
+# MakerBench Bali 
+A modular low-cost workbench (Width 120 x Depth 60 x Height 200cm)
 ![General view](https://live.staticflickr.com/65535/53095180878_35ceaecfef_b.jpg)
 ![photo](https://live.staticflickr.com/65535/53081381167_a3aae65f7d_b.jpg)
 
