@@ -1,6 +1,7 @@
 # MakerBench
 A modular low-cost workbench
 ![General view](https://live.staticflickr.com/65535/53095180878_35ceaecfef_b.jpg)
+![photo](https://live.staticflickr.com/65535/53081381167_a3aae65f7d_b.jpg)
 
 For one table
 Material: Plywood, 18mm
@@ -20,3 +21,9 @@ Total Sheets: 6 boards 2400 x 1200mm
 
 4 Caster wheels with brakes, 3-inch diameter
 16 Caster Screws: short and very fat
+
+# 3D Files
+1. Sketchup with dimensions (download RAW file):  https://github.com/cesarharada/MakerBench/blob/main/Makerbench%20Bali%20-%20dimensions.skp
+2. Sketchup without dimensions (download RAW file): https://github.com/cesarharada/MakerBench/blob/main/Makerbench%20Bali%20-%20no%20dimensions.skp
+3. STL viewer (select wireframe): 
+https://github.com/cesarharada/MakerBench/blob/main/Makerbench%20Bali.stl
